@@ -22,7 +22,6 @@ Gem::Specification.new do |s|
     "README",
     "Rakefile",
     "VERSION.yml",
-    "ext/Makefile",
     "ext/extconf.rb",
     "ext/porter.c",
     "ext/porter_wrap.c",
